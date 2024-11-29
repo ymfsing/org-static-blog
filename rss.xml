@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title><![CDATA[ymfsing]]></title>
+<description><![CDATA[ymfsing]]></description>
+<link>https://blog.ymfsing.com/</link>
+<lastBuildDate>Fri, 29 Nov 2024 18:21:05 +0800</lastBuildDate>
+<item>
+  <title><![CDATA[Hello world]]></title>
+  <description><![CDATA[
+<nav id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#orgbc0c44e">1. Hallo!</a></li>
+</ul>
+</div>
+</nav>
+
+<div id="outline-container-orgbc0c44e" class="outline-2">
+<h2 id="orgbc0c44e"><span class="section-number-2">1.</span> Hallo!</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+This is the first blog with org-static-blog!
+</p>
+</div>
+</div>
+<div class="taglist"><a href="https://blog.ymfsing.com/tags.html">Tags</a>: <a href="https://blog.ymfsing.com/tag-personal.html">personal</a> </div>]]></description>
+  <category><![CDATA[personal]]></category>
+  <link>https://blog.ymfsing.com/2024-11-29-hello-world.html</link>
+  <guid>https://blog.ymfsing.com/2024-11-29-hello-world.html</guid>
+  <pubDate>Fri, 29 Nov 2024 18:20:00 +0800</pubDate>
+</item>
+</channel>
+</rss>
