@@ -1,0 +1,11 @@
+* My static blog
+
+** Tool
+
+[[https://github.com/bastibe/org-static-blog][GitHub - bastibe/org-static-blog: A static site generator using org-mode]]
+
+** References
+
+[[https://github.com/bastibe/bastibe.github.com][GitHub - bastibe/bastibe.github.com: This is the generated HTML and sources for my blog]]
+
+[[https://github.com/chenyo-17/org-static-blog][chenyo-17/org-static-blog: Here hosts my org static blog]]
