@@ -4,7 +4,7 @@
 <title><![CDATA[ymfsing]]></title>
 <description><![CDATA[ymfsing]]></description>
 <link>https://blog.ymfsing.com/</link>
-<lastBuildDate>Fri, 29 Nov 2024 18:41:39 +0800</lastBuildDate>
+<lastBuildDate>Sun, 01 Dec 2024 23:12:15 +0800</lastBuildDate>
 <item>
   <title><![CDATA[Hello world]]></title>
   <description><![CDATA[
@@ -12,21 +12,20 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#org3ba7584">1. Hallo!</a></li>
+<li><a href="#org9341cd6">1. Hello!</a></li>
 </ul>
 </div>
 </nav>
 
-<div id="outline-container-org3ba7584" class="outline-2">
-<h2 id="org3ba7584"><span class="section-number-2">1.</span> Hallo!</h2>
+<div id="outline-container-org9341cd6" class="outline-2">
+<h2 id="org9341cd6"><span class="section-number-2">1.</span> Hello!</h2>
 <div class="outline-text-2" id="text-1">
 <p>
 This is the first blog with org-static-blog!
 </p>
 </div>
 </div>
-<div class="taglist"><a href="https://blog.ymfsing.com/tags.html">Tags</a>: <a href="https://blog.ymfsing.com/tag-personal.html">personal</a> </div>]]></description>
-  <category><![CDATA[personal]]></category>
+<div class="taglist"></div>]]></description>
   <link>https://blog.ymfsing.com/2024-11-29-hello-world.html</link>
   <guid>https://blog.ymfsing.com/2024-11-29-hello-world.html</guid>
   <pubDate>Fri, 29 Nov 2024 18:20:00 +0800</pubDate>
