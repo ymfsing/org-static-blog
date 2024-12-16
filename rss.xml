@@ -4,7 +4,7 @@
 <title><![CDATA[ymfsing]]></title>
 <description><![CDATA[ymfsing]]></description>
 <link>https://blog.ymfsing.com/</link>
-<lastBuildDate>Sun, 15 Dec 2024 20:34:47 +0800</lastBuildDate>
+<lastBuildDate>Mon, 16 Dec 2024 14:17:27 +0800</lastBuildDate>
 <item>
   <title><![CDATA[Hello world]]></title>
   <description><![CDATA[
@@ -12,13 +12,13 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#org9341cd6">1. Hello!</a></li>
+<li><a href="#org0deddad">1. Hello!</a></li>
 </ul>
 </div>
 </nav>
 
-<div id="outline-container-org9341cd6" class="outline-2">
-<h2 id="org9341cd6"><span class="section-number-2">1.</span> Hello!</h2>
+<div id="outline-container-org0deddad" class="outline-2">
+<h2 id="org0deddad"><span class="section-number-2">1.</span> Hello!</h2>
 <div class="outline-text-2" id="text-1">
 <p>
 This is the first blog with org-static-blog!
