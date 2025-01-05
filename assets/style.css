@@ -1,7 +1,8 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap");
+/*@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap");*/
+@import url("https://cdn.jsdelivr.net/npm/lxgw-wenkai-screen-web/style.css");
 
 body {
-    font-family: "Roboto Slab", serif;
+    font-family: "LXGW WenKai Screen", serif;
     line-height: 1.6;
     color: #586e75; /* Solarized Light base01 */
     background-color: #fdf6e3; /* Solarized Light base3 */
@@ -61,7 +62,7 @@ blockquote p + p {
 }
 
 code {
-    font-family: "JetBrains Mono", "Menlo", "Monaco", "Consolas", "Courier New",
+    font-family: "JetBrains Mono", "Menlo", "Monaco", "Consolas", "Courier New", "LXGW WenKai Mono Screen",
         monospace;
     font-size: 0.9em;
     background-color: #eee8d5; /* Solarized Light base2 */
@@ -300,7 +301,7 @@ tr:nth-child(even) {
     border-left: 3px solid #528bff;
     color: #abb2bf;
     page-break-inside: avoid;
-    font-family: "JetBrains Mono", "Menlo", "Monaco", "Consolas", "Courier New",
+    font-family: "JetBrains Mono", "Menlo", "Monaco", "Consolas", "Courier New", "LXGW WenKai Mono Screen",
         monospace;
     font-size: 15px;
     line-height: 1.6;
