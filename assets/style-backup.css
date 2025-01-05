@@ -107,11 +107,11 @@ mark {
 }
 
 nav {
+    margin-top: 10px;
     display: flex;
-    flex-wrap: wrap;
     align-items: center;
-    gap: 1rem;
-    padding: 0.5rem;
+    justify-content: flex-start; /* Align items to the start */
+    padding: 10px 0;
 }
 
 nav a {
@@ -233,22 +233,20 @@ tr:nth-child(even) {
 }
 
 #search-container {
+    margin-top: 10px;
+    margin-left: auto;
+    max-width: 300px;
     display: flex;
     align-items: center;
-    flex: 1;
-    min-width: 150px;
-    max-width: 300px;
 }
 
 #search-input {
-    width: 100%;
-    padding: 0.5rem;
-    padding-right: 2rem;
+    padding: 8px;
     border: 1px solid #93a1a1;
     border-radius: 4px;
+    font-size: 0.9em;
     background-color: #fdf6e3;
     color: #586e75;
-    font-size: 0.9em;
     transition: border-color 0.3s ease;
 }
 
@@ -386,9 +384,9 @@ tr:nth-child(even) {
 }
 
 .search-icon {
-    margin-left: -2rem;
-    color: #586e75;
     flex-grow: 1;
+    margin-left: 10px;
+    color: #586e75;
     font-size: 1.2em;
     transition: color 0.3s ease;
 }
@@ -453,18 +451,4 @@ tr:nth-child(even) {
 ::-moz-selection {
     background-color: #b58900; /* Solarized Light yellow */
     color: #fdf6e3; /* Solarized Light base3 */
-}
-
-/* 移动端适配 */
-@media screen and (max-width: 600px) {
-    nav {
-        justify-content: center;
-    }
-    
-    #search-container {
-        order: 1;
-        width: 100%;
-        max-width: none;
-        margin-top: 0.5rem;
-    }
 }
