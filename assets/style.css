@@ -112,6 +112,7 @@ nav {
     align-items: center;
     gap: 0.8rem;
     padding: 0.5rem;
+    justify-content: flex-start;
 }
 
 nav a {
@@ -234,11 +235,11 @@ tr:nth-child(even) {
 }
 
 #search-container {
+    margin-left: auto;
     display: flex;
     align-items: center;
-    flex: 1;
     min-width: 150px;
-    max-width: 300px;
+    max-width: 200px;
 }
 
 #search-input {
@@ -467,6 +468,7 @@ tr:nth-child(even) {
         order: 1;
         width: 100%;
         max-width: none;
+        margin-left: 0;
         margin-top: 0.5rem;
     }
 
